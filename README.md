@@ -33,7 +33,7 @@
 
 [telegram]: https://t.me/tg_matvey
 [gmail]: mailto:motich.radchenko@gmail.com
-[vk]:https://vk.com/mae_pochtenie
+[vk]:https://vk.com/vk_matvei
       
       
 <!---
